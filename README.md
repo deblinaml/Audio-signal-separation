@@ -9,9 +9,16 @@ in function build_model()
          
 
 Note the following installations are required in Python, Open command Window in Python (I used Spyder IDE)
-Keras: pip install keras
-pysoundfile (pip install pysoundfile)
-numpy (conda install numpy)
-scikit-learn (conda install scikit-learn)
-for .mp3 files: conda install -c conda-forge ffmpeg
-librosa: pip install librosa
+
+1.Keras: pip install keras
+
+2.pysoundfile (pip install pysoundfile)
+
+3.numpy (conda install numpy)
+
+4.scikit-learn (conda install scikit-learn)
+
+5.for .mp3 files: conda install -c conda-forge ffmpeg
+
+6.librosa: pip install librosa
+
